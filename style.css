@@ -20,3 +20,10 @@ img {
   display: block;
   margin: 0 auto;
 }
+.images-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 30px 0;
+}
